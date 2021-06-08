@@ -706,9 +706,10 @@ p {
 }
 
 h2 {
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
+    line-height: 1em;
     color: #333333!important;
 }
 
