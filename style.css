@@ -651,8 +651,8 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color: #575757!important;
+    font-weight:500;
+    color: #333232!important;
 }
 
 .container {
