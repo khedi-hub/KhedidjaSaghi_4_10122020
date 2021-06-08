@@ -679,6 +679,7 @@ a {
 
 p {
     font-size: 18px;
+    font-weight: bold;
 }
 
 .tight-width-whitespace {
@@ -735,6 +736,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-weight: bold;
 }
 
 .portfolio-thumb {
@@ -779,6 +781,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F89165;
     color: #FFFFFF!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine:hover {
