@@ -682,6 +682,7 @@ a {
 p {
     font-size: 2em;
     font-weight: bold;
+    background-color: transparent;/*ajout de la couleur de fond de p*/
 }
 
 .tight-width-whitespace {
