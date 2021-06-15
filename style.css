@@ -102,7 +102,7 @@ a:hover {
 
 .d-bloc {
     color: rgba(255, 255, 255, 1);
-    font-size: 18px;
+    
 }
 
 .d-bloc button:hover {
@@ -651,11 +651,11 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn
+ {
     font-family: "helvetica";
     font-weight:500;
-    color: #ffffff!important;
+    color: #575757 !important;
 }
 
 .container {
@@ -681,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 2em;
+    font-size: 1em;
     font-weight: bold;
     background-color: transparent;/*ajout de la couleur de fond de p*/
 }
@@ -712,7 +712,7 @@ p {
 }
 
 h2 {
-    font-size: 16px;
+    font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 700;
     line-height: 1.5em;
