@@ -11,6 +11,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    color: #ffffff;
 }
 
 a:hover {
@@ -651,8 +652,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a
+.btn
  {
     font-family: "helvetica";
     font-weight:500;
